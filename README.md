@@ -1,10 +1,12 @@
 # tit-Kacper.github.io
-<!DOCTYPE html>
+
 <html>
 
         <meta charset="utf-8">
         <title>Siema</title>
-    </head>
+   
+   </head>
+    
 
 
     <body>
