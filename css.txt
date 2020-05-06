@@ -1,6 +1,0 @@
-body{
-background-image: url("teło.jpg");
-text-align: center;
-color: #FFFFFF;
-
-}
