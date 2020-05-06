@@ -10,7 +10,7 @@
     <body>
 
     <h1>Witam serdecznie</h1><br><br>
-   </h5><br> Ale ten github nieczytelny ale jakos sie zyje no co ¯\_(ツ)_/¯</h5><br>
+   <br> Ale ten github nieczytelny ale jakos sie zyje no co ¯\_(ツ)_/¯<br>
     
     <img src="pijekawe.JPG"/> 
     
