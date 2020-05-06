@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <title>Siema</title>
         
-    	<link rel="stylesheet" href="style.css" type="text/css" />
+    	<link rel="style.css" type="text/css" />
 
 <head>
     <body>
