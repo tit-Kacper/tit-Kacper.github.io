@@ -10,7 +10,7 @@
     <body>
 
     <h1>Witam serdecznie</h1><br><br>
-    <img src="WIEWIÓRA.jpg"/> <img src="WIEWIÓRA.jpg"/>
+    <img src="pijekawe.jpg"/> 
     <h5>Kocham wszystkie zwierzęta – no może poza wężami, pająkami, kleszczami i pozostałymi<br>
 gadami i owadami. Kocham wszystkie zwierzęta – no może poza wężami, pająkami,<br>
 kleszczami i pozostałymi gadami i owadami. Kocham wszystkie zwierzęta – no może poza<br>
