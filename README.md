@@ -13,7 +13,7 @@
 
     <h1>Witam serdecznie</h1><br><br>
     
-    <img src="pijekawe.jpg"/> 
+    <img src="pijekawe.JPG"/> 
     
  <br><h5>Dobrze fest<br>
 </h5><br><br><br>
