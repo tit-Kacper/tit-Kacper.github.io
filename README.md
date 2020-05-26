@@ -20,7 +20,7 @@
 </h5><br><br><br>
 
 <img id="foto"  src="słonkurcaze.png" onmouseover="zmien2()" onmouseout="zmien1()"/>
-
+MOCARZ
     </body>
 
 
