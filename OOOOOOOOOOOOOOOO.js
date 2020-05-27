@@ -1,8 +1,8 @@
 function zmien1()
 {
-	document.getElementById('foto').src="zadowolony.jpg";
+	document.getElementById('foto').src="zadowolony.png";
 }
 function zmien2()
 {
-	document.getElementById('foto').src="zły.jpg";
+	document.getElementById('foto').src="zły.png";
 }
