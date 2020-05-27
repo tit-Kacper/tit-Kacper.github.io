@@ -19,7 +19,7 @@
  <br><h5>Dobrze fest<br>
 </h5><br><br><br>
 
-<img id="foto"  src="słonkurcaze.png" onmouseover="zmien2()" onmouseout="zmien1()"/>
+<img id="foto"  src="zadowolony.png" onmouseover="zmien2()" onmouseout="zmien1()"/>
 MOCARZ
     </body>
 
