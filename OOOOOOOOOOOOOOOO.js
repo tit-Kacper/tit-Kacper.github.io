@@ -1,6 +1,6 @@
 function zmien1()
 {
-	document.getElementById('foto').src="radosc.png";
+	document.getElementById('foto').src="radosc.jpg";
 }
 function zmien2()
 {
