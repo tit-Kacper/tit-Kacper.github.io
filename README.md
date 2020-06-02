@@ -19,7 +19,7 @@
 					
 					<p> takie rzeczy </p>
 					
-					<img id="foto"  src="foto1.png" onmouseover="zmien2()" onmouseout="zmien1()"/>		
+					<img id="foto1"  src="foto1.png" onmouseover="zmien2()" onmouseout="zmien1()"/>		
 			 
           </section>
           
