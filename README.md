@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <title>Siema</title>
         
-    	<!doctype html>
+    	
 <html>
      <head>
           <meta charset="UTF-8" />
