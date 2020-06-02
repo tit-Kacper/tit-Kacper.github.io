@@ -23,7 +23,7 @@
 					
 					<img id="foto2"  src="foto2.png" onmouseover="zmien2()" onmouseout="zmien1()"/>
 					
-					<img id="foto2"  src="foto3.png" onmouseover="zmien2()" onmouseout="zmien1()"/>
+					<img id="foto2"  src="foto3.jpg" onmouseover="zmien2()" onmouseout="zmien1()"/>
 			 
           </section>
           
