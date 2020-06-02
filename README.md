@@ -1,20 +1,13 @@
-
-
-<html>
-<head>
-        <script src="OOOOOOOOOOOOOOOO.js"></script>
-        <meta charset="utf-8">
-        <title>Siema</title>
-        
-    	
+<!doctype html>
 <html>
      <head>
           <meta charset="UTF-8" />
-      
+          <title>dobre</title>
+		  <script src="OOOOOOOOOOOOOOOO.js"></script>
      </head>
      <body>
           <header>
-              <h1> :----DD </h1>
+              <h1> dobre </h1>
 			 
           </header>
           
@@ -22,24 +15,17 @@
                
 			   
 			  
-                   
+                    <h2>To tutaj</h2>
 					
-					<p> </p>
+					<p> takie rzeczy </p>
 					
-					<img id="foto"  src="foto1.png" onmouseover="zmien2()" onmouseout="zmien1()"/> 	<img id="pies"  src="foto3.png" onmouseover="zmien4()" onmouseout="zmien3()"/> <img id="kot"  src="foto5.png" onmouseover="zmien6()" onmouseout="zmien5()"/>
-			 <br>
-			        <img id="zubr"  src="foto7.png" onmouseover="zmien8()" onmouseout="zmien7()"/>  <img id="zbik"  src="foto9.png" onmouseover="zmien10()" onmouseout="zmien9()"/> <img id="hipopotam"  src="foto11.png" onmouseover="zmien12()" onmouseout="zmien11()"/>
-			 <br>
-			        <img id="lew"  src="foto13.png" onmouseover="zmien14()" onmouseout="zmien13()"/> <img id="niedzwiedz"  src="foto15.png" onmouseover="zmien16()" onmouseout="zmien15()"/> <img id="hiena"  src="foto17.png" onmouseover="zmien18()" onmouseout="zmien17()"/> 
-    
-		  
-		  
-		  
-		  
-		  </section>
+					<img id="foto"  src="foto1.png" onmouseover="zmien2()" onmouseout="zmien1()"/>		
+			 
+          </section>
           
-          
+          <footer>
+               
+          </footer>
 		  
      </body>
 </html>
-
