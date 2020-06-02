@@ -4,7 +4,7 @@ function zmien1()
 }
 function zmien2()
 {
-	document.getElementById('foto1').src="radosnosc.jpg";
+	document.getElementById('foto2').src="smutek.jpg";
 }
 
     
