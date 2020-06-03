@@ -10,6 +10,10 @@ function zmien3()
 {
 	document.getElementById('foto3').src="szok.jpg";
 }
+function zmien4()
+{
+	document.getElementById('foto4').src="norbi.png";
+}
 
 
 
