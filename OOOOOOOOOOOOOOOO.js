@@ -6,7 +6,6 @@ function zmien2()
 {
 	document.getElementById('foto2').src="smutek.jpg";
 }
-
 function zmien3()
 {
 	document.getElementById('foto3').src="szok.jpg";
